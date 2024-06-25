@@ -132,4 +132,5 @@ public class MainActivity extends AppCompatActivity implements
             mIsMockLocationsOnTextView.setTextColor(ContextCompat.getColor(this, R.color.c_green));
         }
     }
-}
+}isLocationFromMockProvider
+
